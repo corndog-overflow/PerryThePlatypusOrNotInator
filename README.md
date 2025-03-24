@@ -3,4 +3,4 @@
 # model accuracy of ~96%
 untrained model about good as random chance at 50%
 
-just for fun
+just for fun. just using one convolutional layer. 
